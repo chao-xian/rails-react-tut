@@ -46,6 +46,5 @@ group :development do
 end
 
 gem 'bootstrap-sass', '~> 3.3.6'
-gem 'json'
 gem 'rubocop'
 gem 'react-rails', '~> 1.0'
